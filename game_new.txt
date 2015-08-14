@@ -11,9 +11,9 @@ KEY_CODES = {
   40: 'down',
   70: 'f',
   71: 'g',
-  72: 'h',
   77: 'm',
-  80: 'p'
+  80: 'p',
+  90: 'z'
 }
 
 KEY_STATUS = { keyDown:false };
